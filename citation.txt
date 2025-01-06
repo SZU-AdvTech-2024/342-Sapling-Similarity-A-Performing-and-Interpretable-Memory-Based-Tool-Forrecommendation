@@ -1,12 +1,8 @@
 @article{REPO342,
     author = "Albora, Giambattista and {Rossi Mori}, Lavinia and Zaccaria, Andrea",
-    doi = "https://doi.org/10.1016/j.knosys.2023.110659",
-    issn = "0950-7051",
     journal = "Knowledge-Based Systems",
-    keywords = "Recommender system, Collaborative filtering, Bipartite networks, Similarity",
     pages = "110659",
     title = "{Sapling Similarity: A performing and interpretable memory-based tool for recommendation}",
-    url = "https://www.sciencedirect.com/science/article/pii/S0950705123004094",
     volume = "275",
     year = "2023"
 }
